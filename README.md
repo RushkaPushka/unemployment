@@ -1,7 +1,12 @@
 # unemployment
 Research of registered unemployment in Russia
+
 Task: to compile an analytical review on the problem of unemployment in Russia, I need to conduct a research of the main socio-demographic characteristics of the unemployed and the situation of unemployment in 2020.
-Source: Регистрируемая безработица в России: общие социально-демографические характеристики с детализацией до органа занятости населения // Роструд; обработка: Колесников И.В., Копыток В.К., Кузьмина Ю.В., Инфраструктура научно-исследовательских данных, АНО «ЦПУР», 2021. Access: open license for research purposes. Published: 21.10.2021. (URL: http://data-in.ru/data-catalog/datasets/180/)
+
+Source: Регистрируемая безработица в России: общие социально-демографические характеристики с детализацией до органа занятости населения // Роструд; обработка: Колесников И.В., Копыток В.К., Кузьмина Ю.В., Инфраструктура научно-исследовательских данных, АНО «ЦПУР», 2021. Access: open license for research purposes. 
+Published: 21.10.2021. (URL: http://data-in.ru/data-catalog/datasets/180/)
+
+
 Desription of data:
 id	 	              ID наблюдения в рамках набора данных. Единица наблюдения в датасете — совокупность личных дел с                             соответствующими характеристиками
 district              Федеральный округ
